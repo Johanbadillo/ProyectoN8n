@@ -13,6 +13,8 @@ HelpDeskBot es una solución de automatización de flujo de trabajo construida e
   </strong>
 </p>
 
+![](./img)
+
 ---
 
 ## 🚀 Funcionalidades Principales
